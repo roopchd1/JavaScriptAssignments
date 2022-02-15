@@ -110,7 +110,7 @@ if(x == 30 || y == 2 ){
 //Write a JavaScript program to determine whether a given year is a leap year 
 
                         let year = prompt("Input year");
-                        year = year % 2;
+                        year = year % 4;
                         if (year !== 0)
                             {console.log("It is not a leap year !");}
                         else console.log("Yeah! It is a leap year !");
