@@ -6,7 +6,6 @@ let numOfDaysUntilWeekend = 2;
 numOfDaysUntilWeekend -= 1;
 
 
-
 1. Use console.log() to log the value just after the variable has been declared
 2.  Use console.log() to log the value right after the value of the variable has been changed. 
 3. Tell what it does 
